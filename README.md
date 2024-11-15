@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Java with swing GUI
+- 🌱 I’m currently learning creating website and Application
+- ⚡I Looove R&B Music
 
 <!--
 **SiHarv/SiHarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
