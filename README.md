@@ -1,7 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Java with swing GUI
-- 🌱 I’m currently learning creating website and Application
-- ⚡I Looove R&B Music
+- 🔭 I’m currently working on Java with swing GUI.
+-   My new project is to create a GUI for yt-dlp. 
+- 🌱 I’m currently learning creating website and Application.
+- ⚡I Looove R&B Music.
+- 
 
 <!--
 **SiHarv/SiHarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
