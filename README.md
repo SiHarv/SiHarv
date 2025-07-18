@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning creating website and Application.
+- 🌱 I’m currently learning to create website and Applications.
 - ⚡I Looove R&B Music.
 - 
 
