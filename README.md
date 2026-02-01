@@ -1,7 +1,5 @@
 ## Hi there 👋
 - 💬 @School.
-- ⚡I Looove R&B Music.
--  🔭 I want to Learn. 
 
 <!--
 **SiHarv/SiHarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
