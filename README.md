@@ -15,9 +15,8 @@ I'm **Harvey** — a Full-Stack and Mobile Developer.
 ### 💻 What I Do
 
 * **Full-Stack & Mobile:** I make web and mobile apps using Laravel, Ruby on Rails, and Flutter. I focus on offline-first features for places with slow internet.
-* **Hardware & Systems:** I use Ubuntu and Windows. I also build Hackintosh systems (running macOS on non-Apple PCs). 
-* **Servers & Networks:** I run 24/7 local servers using Lenovo and Dell mini PCs. I configure network routers and switches.
-* **Cybersecurity:** I use Kali Linux and OSINT tools to learn about system security.
+* **Hardware & Systems:** I use Ubuntu, Windows, and MacOS in single Machine. Build Hackintosh systems (running macOS on non-Apple PCs). 
+
 
 ### 🛠️ Tech Stack
 
@@ -42,19 +41,10 @@ I'm **Harvey** — a Full-Stack and Mobile Developer.
 * **Agricultural Management System (RiceTrack)** - A Flutter and Laravel app for farmers. It tracks expenses and syncs data offline.
 * **Offline-First POS/CRM** - A retail system that replaces paid software and tracks sales in real-time.
 * **[OpenCore LG Gram 15Z980](https://github.com/SiHarv/OpenCore-LG-Gram-15Z980)** - My custom Hackintosh setup for the LG Gram laptop.
-* **Code Exporter** - A Python tool to compile source code into documents for school requirements.
+* **[Code Exporter ](https://github.com/SiHarv/code_exporter)** - A Python tool to compile source code into documents for school requirements.
+* **[Artwork Gallery](https://github.com/SiHarv/Artwork-Gallery)** - A ruby on rails Website for arts. Basically a E-commerce system.
+*  **[ytDLP - GUI](https://github.com/SiHarv/yt-dlp-Java-GUI)** - A Java swing with ffmpeg and ytDLP for Downloading multimedia files in selected Platforms (ex. youtube).
+*  **[Laptop Shop](https://github.com/SiHarv/OnlineLaptopShop)** - Built using PHP, JS, HTML, and CSS. an E-commerce website specifiically for laptop with messaging feature. 
 
 <br>
 
-<details>
-<summary><b>⚡ GitHub Stats (Click to expand)</b></summary>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiHarv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiHarv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiHarv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-</details>
